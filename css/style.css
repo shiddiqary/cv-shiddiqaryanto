@@ -150,16 +150,6 @@ section h3:after{
 	font-size: 25px;
 	margin-bottom: 15px;
 }
-.name:after{
-	content: '';
-	display: block;
-	position: absolute;
-	bottom: -80PX;
-	width: 180px;
-	height: 2px;
-	background-color: #000;
-	left: calc(50% - 90px);
-}
 #pendidikan{
 	background-color: #f1f1f1;
 }
