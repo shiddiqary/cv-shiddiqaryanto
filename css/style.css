@@ -327,9 +327,22 @@ html{
 		margin-bottom: 20px;
 	}
 	#kemampuan .bar{
-		width: 400px;
+		width: 300px;
 	}
 	#skill .bar{
-		width: 400px;
+		width: 300px;
+	}
+	header h1 a{
+		font-size: 25px;
+	}
+	.banner h2 i{
+		font-size: 28px;
+	}
+	.banner p{
+		font-size: 15px;
+	}
+	section{
+		margin: 0;
+		padding-top: 25px; 
 	}
 }
